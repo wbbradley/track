@@ -1,0 +1,25 @@
+{
+  "name": "track",
+  "version": "1.0.0",
+  "description": "A tracker.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbbradley/track.git"
+  },
+  "author": "Will Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbbradley/track/issues"
+  },
+  "homepage": "https://github.com/wbbradley/track#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
